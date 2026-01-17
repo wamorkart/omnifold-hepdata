@@ -49,7 +49,7 @@ Defines a schema for publishing OmniFold outputs, including:
 - Normalization
 ---
 
-### 2. Per-Event Weights Archive  
+### 2. Per-Event Weights   
 <!-- **Primary scientific artifact** -->
 
 Standardized publication of:
@@ -65,7 +65,7 @@ Standardized publication of:
 
 --- -->
 
-### 3. Model & Training Artifacts  
+### 3. Model & Training Details  
 <!-- **Reproducibility layer (optional)** -->
 
 Optional publication of:
@@ -95,7 +95,7 @@ Defines unfolded observables, including:
 
 --- -->
 
-### 5. Analysis & Reinterpretation Toolkit  
+### 5. Analysis & Reinterpretation   
 **User-facing layer**
 
 Tools to:
