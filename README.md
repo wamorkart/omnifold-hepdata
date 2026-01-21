@@ -106,4 +106,5 @@ End-to-end examples using public datasets demonstrating:
   https://arxiv.org/abs/1911.09107
 
 - Tools for unbinned unfolding (RooUnfold-based Omnifold framework + standalone Omnifold package available through PyPI)
+
 https://arxiv.org/abs/2503.09720
