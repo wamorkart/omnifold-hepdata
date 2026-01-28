@@ -9,6 +9,20 @@ Modern unfolding methods produce *per-event weights and trained models*, rather 
 ---
 
 
+## References
+
+- OmniFold: A Method to Simultaneously Unfold All Observables  
+  https://arxiv.org/abs/1911.09107
+
+- Tools for unbinned unfolding (RooUnfold-based Omnifold framework + standalone Omnifold package available through PyPI)
+  https://arxiv.org/abs/2503.09720
+
+- Omnifold PyPi package
+  https://pypi.org/project/omnifold/
+
+- Public code for the ATLAS Omnifold Z+jets publication
+  https://gitlab.cern.ch/atlas-physics/public/sm-z-jets-omnifold-2024 
+
 ## Scope
 
 We want to define:
@@ -99,11 +113,3 @@ End-to-end examples using public datasets demonstrating:
 - How to reproduce published observables
 - How to compute new observables post-publication
 
-
-## References
-
-- OmniFold: A Method to Simultaneously Unfold All Observables  
-  https://arxiv.org/abs/1911.09107
-
-- Tools for unbinned unfolding (RooUnfold-based Omnifold framework + standalone Omnifold package available through PyPI)
-  https://arxiv.org/abs/2503.09720
