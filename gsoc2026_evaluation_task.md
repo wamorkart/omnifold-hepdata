@@ -50,7 +50,7 @@ Then write a short justification (a few paragraphs) explaining:
 
 ### Part 3 – Coding Exercise
 
-Write a single self-contained Python function that computes a weighted histogram of an observable. You can choose a sensible binning.
+Write a single self-contained Python function that computes a weighted histogram of an observable. You can choose a sensible binning. Add plotting functionality to this function as well.
 
 Include tests (using pytest or simple assertions) that verify the function behaves correctly — think about what the most important edge cases are and explain your choices briefly in a comment.
 
