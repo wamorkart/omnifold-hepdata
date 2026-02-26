@@ -67,15 +67,7 @@ A GitHub repository containing:
 
 
 ---
-
-## What We're Looking For
-
-- **Part 1** tests whether you can read unfamiliar scientific data and think critically about what's missing
-- **Part 2** tests whether you can design a schema thoughtfully, not just implement one
-- **Part 3** tests basic Python and scientific computing skills, and whether you think about correctness and edge cases
-
 You do not need a physics background. We are primarily evaluating software design thinking!
-
 ---
 
 *Questions? Email [tanvi.wamorkar@cern.ch](mailto:tanvi.wamorkar@cern.ch) and [nachman@stanford.edu](mailto:nachman@stanford.edu) with "gsoc26" in the subject line.*
